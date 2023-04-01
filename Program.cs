@@ -16,4 +16,12 @@ console.WriteLine("5. Elevar a la potencia.");
 console.WriteLine("Selecccione una opcion (1 - 5): ");
 
 
+//Guardar Variable
+option = int.Parse(console.Readline());
+//ahora pedimos los dos numeros
+console.Write(Console.Readline());
+console.Write("Ingrese el primer numero: ");
+A = double.Parse(console.Readline());
+console.Write("Ingrese el segundo numero: ");
+B = double.Parse(console.Readline());
 
