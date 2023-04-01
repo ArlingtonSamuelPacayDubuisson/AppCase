@@ -1,0 +1,15 @@
+C:\Users\Arlington\Desktop\CaseApp\bin\Debug\net7.0\CaseApp.exe
+C:\Users\Arlington\Desktop\CaseApp\bin\Debug\net7.0\CaseApp.deps.json
+C:\Users\Arlington\Desktop\CaseApp\bin\Debug\net7.0\CaseApp.runtimeconfig.json
+C:\Users\Arlington\Desktop\CaseApp\bin\Debug\net7.0\CaseApp.dll
+C:\Users\Arlington\Desktop\CaseApp\bin\Debug\net7.0\CaseApp.pdb
+C:\Users\Arlington\Desktop\CaseApp\obj\Debug\net7.0\CaseApp.csproj.AssemblyReference.cache
+C:\Users\Arlington\Desktop\CaseApp\obj\Debug\net7.0\CaseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arlington\Desktop\CaseApp\obj\Debug\net7.0\CaseApp.AssemblyInfoInputs.cache
+C:\Users\Arlington\Desktop\CaseApp\obj\Debug\net7.0\CaseApp.AssemblyInfo.cs
+C:\Users\Arlington\Desktop\CaseApp\obj\Debug\net7.0\CaseApp.csproj.CoreCompileInputs.cache
+C:\Users\Arlington\Desktop\CaseApp\obj\Debug\net7.0\CaseApp.dll
+C:\Users\Arlington\Desktop\CaseApp\obj\Debug\net7.0\refint\CaseApp.dll
+C:\Users\Arlington\Desktop\CaseApp\obj\Debug\net7.0\CaseApp.pdb
+C:\Users\Arlington\Desktop\CaseApp\obj\Debug\net7.0\CaseApp.genruntimeconfig.cache
+C:\Users\Arlington\Desktop\CaseApp\obj\Debug\net7.0\ref\CaseApp.dll
